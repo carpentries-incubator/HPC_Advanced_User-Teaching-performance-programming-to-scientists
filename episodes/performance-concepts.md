@@ -329,7 +329,7 @@ How much faster should it be?
 
 Run the dot_product.R code several times to get an average
 execution time for a dot product between two vectors of
-1 million elements each.  Try to run them on an isolated system
+10 million elements each.  Try to run them on an isolated system
 if possible, or through a batch queue that at least ensures the
 code is being run on an isolated processing core.
 Then run the dot_product_sparse.R code in the same manner for
