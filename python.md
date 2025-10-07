@@ -406,6 +406,7 @@ If you do this please contribute your code and timings.
 * [Scikit]()
 * [Dask](https://dask.org)
 * [Numba](https://numba.pydata.org)
+* [Software Carpentry Incubator lesson with Dask and Numba](https://carpentries-incubator.github.io/lesson-parallel-python/)
 * [Parsl python package](https://github.com/Parsl/parsl)
 
 
