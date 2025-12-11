@@ -1,4 +1,4 @@
-# HPC-User
+# HPC_Advanced_User: Teaching performance programming to scientists
 
 This is a new lesson built with [The Carpentries Workbench][workbench]. 
 
@@ -32,8 +32,8 @@ having an HPC Unix Shell carpentry module taught right before this one.
 ## Authors
 
 This Carpentries lesson was created by Dr Dave Turner 
-[(daveturner@ksu.edu)](drdaveturner@ksu.edu)
-at Kansas State University 2022-2024+.
+[(daveturner@ksu.edu)](daveturner@ksu.edu)
+at Kansas State University 2022-2025+.
 
 
 [cff-sandpaper-docs]:  https://carpentries.github.io/sandpaper-docs/editing.html#making-your-lesson-citable

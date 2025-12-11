@@ -6,7 +6,7 @@ This is a new lesson built with [The Carpentries Workbench](https://carpentries.
 
 ---
 
-The HPC-user Software Carpentry module is aimed at researchers with
+The HPC_Advance_User Software Carpentry module is aimed at researchers with
 some background in using scientific computing.
 This lesson will teach scientists to understand and deal with performance issues
 that arise when moving from a personal computer
