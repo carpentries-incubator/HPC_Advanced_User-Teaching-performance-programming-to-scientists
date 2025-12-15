@@ -11,13 +11,13 @@
 carpentry: 'incubator'
 
 # Overall title for pages.
-title: 'HPC User'
+title: 'HPC Advanced User'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
 created: '2022-01-01'
 
 # Comma-separated list of keywords for the lesson
-keywords: ' HPC, software, lesson, The Carpentries, Python, C, C++, Fortran, R, Matlab'
+keywords: ' HPC, software, lesson, The Carpentries, Python, C, C++, Fortran, R, Matlab, performance'
 
 # Life cycle stage of the lesson
 # possible values: pre-alpha, alpha, beta, stable
@@ -27,13 +27,13 @@ life_cycle: 'pre-alpha'
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://github.com/DrDaveTurner/HPC-User/'
+source: 'https://github.com/carpentries-incubator/HPC_Advanced_User-Teaching-performance-programming-to-scientists'
 
 # Default branch of your lesson
 branch: 'main'
 
 # Who to contact if there are any issues
-contact: 'drdaveturner@gmail.com'
+contact: 'daveturner@ksu.edu'
 
 # Navigation ------------------------------------------------
 #
