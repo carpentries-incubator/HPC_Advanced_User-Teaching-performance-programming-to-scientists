@@ -1,165 +1,165 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://DrDaveTurner.github.io/HPC-User/01-introduction.html</loc>
+    <loc>https://carpentries-incubator.github.io/HPC_Advanced_User-Teaching-performance-programming-to-scientists/01-introduction.html</loc>
   </url>
   <url>
-    <loc>https://DrDaveTurner.github.io/HPC-User/404.html</loc>
+    <loc>https://carpentries-incubator.github.io/HPC_Advanced_User-Teaching-performance-programming-to-scientists/404.html</loc>
   </url>
   <url>
-    <loc>https://DrDaveTurner.github.io/HPC-User/CODE_OF_CONDUCT.html</loc>
+    <loc>https://carpentries-incubator.github.io/HPC_Advanced_User-Teaching-performance-programming-to-scientists/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
-    <loc>https://DrDaveTurner.github.io/HPC-User/LICENSE.html</loc>
+    <loc>https://carpentries-incubator.github.io/HPC_Advanced_User-Teaching-performance-programming-to-scientists/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://DrDaveTurner.github.io/HPC-User/aio.html</loc>
+    <loc>https://carpentries-incubator.github.io/HPC_Advanced_User-Teaching-performance-programming-to-scientists/aio.html</loc>
   </url>
   <url>
-    <loc>https://DrDaveTurner.github.io/HPC-User/array-jobs.html</loc>
+    <loc>https://carpentries-incubator.github.io/HPC_Advanced_User-Teaching-performance-programming-to-scientists/array-jobs.html</loc>
   </url>
   <url>
-    <loc>https://DrDaveTurner.github.io/HPC-User/c-cpp.html</loc>
+    <loc>https://carpentries-incubator.github.io/HPC_Advanced_User-Teaching-performance-programming-to-scientists/c-cpp.html</loc>
   </url>
   <url>
-    <loc>https://DrDaveTurner.github.io/HPC-User/fortran.html</loc>
+    <loc>https://carpentries-incubator.github.io/HPC_Advanced_User-Teaching-performance-programming-to-scientists/fortran.html</loc>
   </url>
   <url>
-    <loc>https://DrDaveTurner.github.io/HPC-User/gpus.html</loc>
+    <loc>https://carpentries-incubator.github.io/HPC_Advanced_User-Teaching-performance-programming-to-scientists/gpus.html</loc>
   </url>
   <url>
-    <loc>https://DrDaveTurner.github.io/HPC-User/high-throughput-computing.html</loc>
+    <loc>https://carpentries-incubator.github.io/HPC_Advanced_User-Teaching-performance-programming-to-scientists/high-throughput-computing.html</loc>
   </url>
   <url>
-    <loc>https://DrDaveTurner.github.io/HPC-User/hpc-resources.html</loc>
+    <loc>https://carpentries-incubator.github.io/HPC_Advanced_User-Teaching-performance-programming-to-scientists/hpc-resources.html</loc>
   </url>
   <url>
-    <loc>https://DrDaveTurner.github.io/HPC-User/images.html</loc>
+    <loc>https://carpentries-incubator.github.io/HPC_Advanced_User-Teaching-performance-programming-to-scientists/images.html</loc>
   </url>
   <url>
-    <loc>https://DrDaveTurner.github.io/HPC-User/index.html</loc>
+    <loc>https://carpentries-incubator.github.io/HPC_Advanced_User-Teaching-performance-programming-to-scientists/index.html</loc>
   </url>
   <url>
-    <loc>https://DrDaveTurner.github.io/HPC-User/instructor/01-introduction.html</loc>
+    <loc>https://carpentries-incubator.github.io/HPC_Advanced_User-Teaching-performance-programming-to-scientists/instructor/01-introduction.html</loc>
   </url>
   <url>
-    <loc>https://DrDaveTurner.github.io/HPC-User/instructor/404.html</loc>
+    <loc>https://carpentries-incubator.github.io/HPC_Advanced_User-Teaching-performance-programming-to-scientists/instructor/404.html</loc>
   </url>
   <url>
-    <loc>https://DrDaveTurner.github.io/HPC-User/instructor/CODE_OF_CONDUCT.html</loc>
+    <loc>https://carpentries-incubator.github.io/HPC_Advanced_User-Teaching-performance-programming-to-scientists/instructor/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
-    <loc>https://DrDaveTurner.github.io/HPC-User/instructor/LICENSE.html</loc>
+    <loc>https://carpentries-incubator.github.io/HPC_Advanced_User-Teaching-performance-programming-to-scientists/instructor/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://DrDaveTurner.github.io/HPC-User/instructor/aio.html</loc>
+    <loc>https://carpentries-incubator.github.io/HPC_Advanced_User-Teaching-performance-programming-to-scientists/instructor/aio.html</loc>
   </url>
   <url>
-    <loc>https://DrDaveTurner.github.io/HPC-User/instructor/array-jobs.html</loc>
+    <loc>https://carpentries-incubator.github.io/HPC_Advanced_User-Teaching-performance-programming-to-scientists/instructor/array-jobs.html</loc>
   </url>
   <url>
-    <loc>https://DrDaveTurner.github.io/HPC-User/instructor/c-cpp.html</loc>
+    <loc>https://carpentries-incubator.github.io/HPC_Advanced_User-Teaching-performance-programming-to-scientists/instructor/c-cpp.html</loc>
   </url>
   <url>
-    <loc>https://DrDaveTurner.github.io/HPC-User/instructor/fortran.html</loc>
+    <loc>https://carpentries-incubator.github.io/HPC_Advanced_User-Teaching-performance-programming-to-scientists/instructor/fortran.html</loc>
   </url>
   <url>
-    <loc>https://DrDaveTurner.github.io/HPC-User/instructor/gpus.html</loc>
+    <loc>https://carpentries-incubator.github.io/HPC_Advanced_User-Teaching-performance-programming-to-scientists/instructor/gpus.html</loc>
   </url>
   <url>
-    <loc>https://DrDaveTurner.github.io/HPC-User/instructor/high-throughput-computing.html</loc>
+    <loc>https://carpentries-incubator.github.io/HPC_Advanced_User-Teaching-performance-programming-to-scientists/instructor/high-throughput-computing.html</loc>
   </url>
   <url>
-    <loc>https://DrDaveTurner.github.io/HPC-User/instructor/hpc-resources.html</loc>
+    <loc>https://carpentries-incubator.github.io/HPC_Advanced_User-Teaching-performance-programming-to-scientists/instructor/hpc-resources.html</loc>
   </url>
   <url>
-    <loc>https://DrDaveTurner.github.io/HPC-User/instructor/images.html</loc>
+    <loc>https://carpentries-incubator.github.io/HPC_Advanced_User-Teaching-performance-programming-to-scientists/instructor/images.html</loc>
   </url>
   <url>
-    <loc>https://DrDaveTurner.github.io/HPC-User/instructor/index.html</loc>
+    <loc>https://carpentries-incubator.github.io/HPC_Advanced_User-Teaching-performance-programming-to-scientists/instructor/index.html</loc>
   </url>
   <url>
-    <loc>https://DrDaveTurner.github.io/HPC-User/instructor/instructor-notes.html</loc>
+    <loc>https://carpentries-incubator.github.io/HPC_Advanced_User-Teaching-performance-programming-to-scientists/instructor/instructor-notes.html</loc>
   </url>
   <url>
-    <loc>https://DrDaveTurner.github.io/HPC-User/instructor/introduction.html</loc>
+    <loc>https://carpentries-incubator.github.io/HPC_Advanced_User-Teaching-performance-programming-to-scientists/instructor/introduction.html</loc>
   </url>
   <url>
-    <loc>https://DrDaveTurner.github.io/HPC-User/instructor/key-points.html</loc>
+    <loc>https://carpentries-incubator.github.io/HPC_Advanced_User-Teaching-performance-programming-to-scientists/instructor/key-points.html</loc>
   </url>
   <url>
-    <loc>https://DrDaveTurner.github.io/HPC-User/instructor/language-survey.html</loc>
+    <loc>https://carpentries-incubator.github.io/HPC_Advanced_User-Teaching-performance-programming-to-scientists/instructor/language-survey.html</loc>
   </url>
   <url>
-    <loc>https://DrDaveTurner.github.io/HPC-User/instructor/matlab.html</loc>
+    <loc>https://carpentries-incubator.github.io/HPC_Advanced_User-Teaching-performance-programming-to-scientists/instructor/matlab.html</loc>
   </url>
   <url>
-    <loc>https://DrDaveTurner.github.io/HPC-User/instructor/message-passing.html</loc>
+    <loc>https://carpentries-incubator.github.io/HPC_Advanced_User-Teaching-performance-programming-to-scientists/instructor/message-passing.html</loc>
   </url>
   <url>
-    <loc>https://DrDaveTurner.github.io/HPC-User/instructor/multi-threaded.html</loc>
+    <loc>https://carpentries-incubator.github.io/HPC_Advanced_User-Teaching-performance-programming-to-scientists/instructor/multi-threaded.html</loc>
   </url>
   <url>
-    <loc>https://DrDaveTurner.github.io/HPC-User/instructor/parallel-concepts.html</loc>
+    <loc>https://carpentries-incubator.github.io/HPC_Advanced_User-Teaching-performance-programming-to-scientists/instructor/parallel-concepts.html</loc>
   </url>
   <url>
-    <loc>https://DrDaveTurner.github.io/HPC-User/instructor/performance-concepts.html</loc>
+    <loc>https://carpentries-incubator.github.io/HPC_Advanced_User-Teaching-performance-programming-to-scientists/instructor/performance-concepts.html</loc>
   </url>
   <url>
-    <loc>https://DrDaveTurner.github.io/HPC-User/instructor/profiles.html</loc>
+    <loc>https://carpentries-incubator.github.io/HPC_Advanced_User-Teaching-performance-programming-to-scientists/instructor/profiles.html</loc>
   </url>
   <url>
-    <loc>https://DrDaveTurner.github.io/HPC-User/instructor/profiling-code.html</loc>
+    <loc>https://carpentries-incubator.github.io/HPC_Advanced_User-Teaching-performance-programming-to-scientists/instructor/profiling-code.html</loc>
   </url>
   <url>
-    <loc>https://DrDaveTurner.github.io/HPC-User/instructor/python.html</loc>
+    <loc>https://carpentries-incubator.github.io/HPC_Advanced_User-Teaching-performance-programming-to-scientists/instructor/python.html</loc>
   </url>
   <url>
-    <loc>https://DrDaveTurner.github.io/HPC-User/instructor/r.html</loc>
+    <loc>https://carpentries-incubator.github.io/HPC_Advanced_User-Teaching-performance-programming-to-scientists/instructor/r.html</loc>
   </url>
   <url>
-    <loc>https://DrDaveTurner.github.io/HPC-User/instructor/reference.html</loc>
+    <loc>https://carpentries-incubator.github.io/HPC_Advanced_User-Teaching-performance-programming-to-scientists/instructor/reference.html</loc>
   </url>
   <url>
-    <loc>https://DrDaveTurner.github.io/HPC-User/instructor-notes.html</loc>
+    <loc>https://carpentries-incubator.github.io/HPC_Advanced_User-Teaching-performance-programming-to-scientists/instructor-notes.html</loc>
   </url>
   <url>
-    <loc>https://DrDaveTurner.github.io/HPC-User/introduction.html</loc>
+    <loc>https://carpentries-incubator.github.io/HPC_Advanced_User-Teaching-performance-programming-to-scientists/introduction.html</loc>
   </url>
   <url>
-    <loc>https://DrDaveTurner.github.io/HPC-User/key-points.html</loc>
+    <loc>https://carpentries-incubator.github.io/HPC_Advanced_User-Teaching-performance-programming-to-scientists/key-points.html</loc>
   </url>
   <url>
-    <loc>https://DrDaveTurner.github.io/HPC-User/language-survey.html</loc>
+    <loc>https://carpentries-incubator.github.io/HPC_Advanced_User-Teaching-performance-programming-to-scientists/language-survey.html</loc>
   </url>
   <url>
-    <loc>https://DrDaveTurner.github.io/HPC-User/matlab.html</loc>
+    <loc>https://carpentries-incubator.github.io/HPC_Advanced_User-Teaching-performance-programming-to-scientists/matlab.html</loc>
   </url>
   <url>
-    <loc>https://DrDaveTurner.github.io/HPC-User/message-passing.html</loc>
+    <loc>https://carpentries-incubator.github.io/HPC_Advanced_User-Teaching-performance-programming-to-scientists/message-passing.html</loc>
   </url>
   <url>
-    <loc>https://DrDaveTurner.github.io/HPC-User/multi-threaded.html</loc>
+    <loc>https://carpentries-incubator.github.io/HPC_Advanced_User-Teaching-performance-programming-to-scientists/multi-threaded.html</loc>
   </url>
   <url>
-    <loc>https://DrDaveTurner.github.io/HPC-User/parallel-concepts.html</loc>
+    <loc>https://carpentries-incubator.github.io/HPC_Advanced_User-Teaching-performance-programming-to-scientists/parallel-concepts.html</loc>
   </url>
   <url>
-    <loc>https://DrDaveTurner.github.io/HPC-User/performance-concepts.html</loc>
+    <loc>https://carpentries-incubator.github.io/HPC_Advanced_User-Teaching-performance-programming-to-scientists/performance-concepts.html</loc>
   </url>
   <url>
-    <loc>https://DrDaveTurner.github.io/HPC-User/profiles.html</loc>
+    <loc>https://carpentries-incubator.github.io/HPC_Advanced_User-Teaching-performance-programming-to-scientists/profiles.html</loc>
   </url>
   <url>
-    <loc>https://DrDaveTurner.github.io/HPC-User/profiling-code.html</loc>
+    <loc>https://carpentries-incubator.github.io/HPC_Advanced_User-Teaching-performance-programming-to-scientists/profiling-code.html</loc>
   </url>
   <url>
-    <loc>https://DrDaveTurner.github.io/HPC-User/python.html</loc>
+    <loc>https://carpentries-incubator.github.io/HPC_Advanced_User-Teaching-performance-programming-to-scientists/python.html</loc>
   </url>
   <url>
-    <loc>https://DrDaveTurner.github.io/HPC-User/r.html</loc>
+    <loc>https://carpentries-incubator.github.io/HPC_Advanced_User-Teaching-performance-programming-to-scientists/r.html</loc>
   </url>
   <url>
-    <loc>https://DrDaveTurner.github.io/HPC-User/reference.html</loc>
+    <loc>https://carpentries-incubator.github.io/HPC_Advanced_User-Teaching-performance-programming-to-scientists/reference.html</loc>
   </url>
 </urlset>
