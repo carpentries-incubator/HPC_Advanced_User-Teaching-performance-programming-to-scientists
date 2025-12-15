@@ -6,7 +6,7 @@ exercises: 0
 
 :::::::::::::::::::::::::::::::::::::: questions
 
-- What should I expect to learn from the HPC_Advance_User module?
+- What should I expect to learn from the HPC Advanced User lesson?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -34,7 +34,7 @@ we also need to start understanding the performance aspects of our code.
 More power is not always the answer, sometimes writing more efficient
 code can get the job done equally as well.
 
-This HPC_Advance_User lesson is aimed at scientists who need to use computers
+This HPC Advanced User lesson is aimed at scientists who need to use computers
 to do calculations, and not at computer scientists or computer engineers
 who need to be experts at programming in a High-Performance Computing
 environment.
@@ -72,7 +72,7 @@ Most sections also have website links at the end which provide
 a means to seek out more information.
 
 ::::::::::::::::::::::::::::::::::::: keypoints
-- The HPC_Advance_User lesson will help to understand basic concepts affecting 
+- The HPC Advanced User lesson will help to understand basic concepts affecting 
 performance in programming.
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
