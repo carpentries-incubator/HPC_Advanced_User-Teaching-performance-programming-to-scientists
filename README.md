@@ -20,7 +20,7 @@ do and what performance bottlenecks to avoid.
 Each user must begin with some knowledge of Linux and at least one
 of the languages that this lesson covers (Python, R, C/C++, Fortran, Matlab).
 The examples in the first part of this lesson are currently available in 
-Python, R, C/C++, and Fortran but Matlab examples still to be added.
+Python, R, C/C++, and Fortran but Matlab examples still need to be added.
 Each user may also need to know how to run
 jobs in an HPC environment.  These prerequisites may all be covered by
 having an HPC Unix Shell carpentry lesson taught right before this one.
